@@ -44,12 +44,14 @@ article div {
   width: 100%;
 }
 
+/* Parent flex container */
 #introduction {
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
+/* Child flex container */
 #image-container {
   display: flex;
   justify-content: center;
